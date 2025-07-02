@@ -1,7 +1,6 @@
 # 🛍️ Shopping Landing Page
 
-A modern, responsive shopping landing page built to showcase products and boost conversions. Live demo available at 👉 [shopping-landing-page-green.vercel.app](https://shopping-landing-page-green.vercel.app/)
-
+A modern, responsive shopping landing page built to showcase products and boost conversions. 
 ## 🚀 Live Demo
 
 > 🌐 [https://shopping-landing-page-green.vercel.app/](https://shopping-landing-page-green.vercel.app/)
@@ -230,9 +229,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 Give a ⭐️ if this project helped you!
 
-**Made with Letera Tujo — Developer & Designer **
-
-[⬆ Back to Top](#-shopping-landing-page)
+Made by Letera Tujo — Developer & Designer 
 
 </div>
 ```
