@@ -50,7 +50,7 @@ const Footer = () => {
             </h1>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum in
-              beatae ea recusandae blanditiis veritatis.
+              beatae etra recusandae blanditiis veritatis.
             </p>
           </div>
 
