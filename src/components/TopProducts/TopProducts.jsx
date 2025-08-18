@@ -10,7 +10,7 @@ const ProductsData = [
     img: Img1,
     title: "Casual Wear",
     description:
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "lorem ipsum dolor sit amet, consectetur adipiscings elit, sedu do eiusmod tempors incididunt ut labore et dolore magna aliqua.",
   },
   {
     id: 2,
