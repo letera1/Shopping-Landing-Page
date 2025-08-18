@@ -46,7 +46,7 @@ const DropdownLinks = [
   },
   {
     id: 3,
-    name: "Top Rated",
+    name: "Top Rates",
     link: "/#",
   },
 ];
