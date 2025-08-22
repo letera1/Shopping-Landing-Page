@@ -59,7 +59,7 @@ const Navbar = ({ handleOrderPopup }) => {
         <div className="container flex justify-between items-center">
           <div>
             <a href="#" className="font-bold text-2xl sm:text-3xl flex gap-2">
-              <img src={Logo} alt="logo" className="w-10" />
+              <img src={Logo} alt="Logo" className="w-10" />
               Shopsy
             </a>
           </div>
@@ -69,7 +69,7 @@ const Navbar = ({ handleOrderPopup }) => {
             <div className="relative group hidden sm:block">
               <input
                 type="text"
-                placeholder="search"
+                placeholder="Search"
                 className="w-[200px] sm:w-[200px] group-hover:w-[300px] transition-all duration-300 rounded-full border border-gray-300 px-2 py-1 focus:outline-none focus:border-1 focus:border-primary dark:border-gray-500 dark:bg-gray-800  "
               />
               <IoMdSearch className="text-gray-500 group-hover:text-primary absolute top-1/2 -translate-y-1/2 right-3" />
