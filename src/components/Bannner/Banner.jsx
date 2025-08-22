@@ -13,7 +13,7 @@ const Banner = () => {
           <div data-aos="zoom-in">
             <img
               src={BannerImg}
-              alt="banner"
+              alt="banners"
               className="max-w-[400px] h-[350px] w-full mx-auto drop-shadow-[-10px_10px_12px_rgba(0,0,0,1)] object-cover"
             />
           </div>
@@ -27,7 +27,7 @@ const Banner = () => {
               data-aos="fade-up"
               className="text-sm text-gray-500 tracking-wide leading-5"
             >
-              Lorems ipsum, dolor sit amet consectetur adipisicing elit. Eaque
+              Lorems ipsum, dolor sit amet consenctetur adipisicing elit. Eaque
               reiciendis inventore iste ratione ex alias quis magni at optio
             </p>
             <div className="flex flex-col gap-4">
