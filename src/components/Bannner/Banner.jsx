@@ -13,7 +13,7 @@ const Banner = () => {
           <div data-aos="zoom-in">
             <img
               src={BannerImg}
-              alt="banners"
+              alt="Banners"
               className="max-w-[400px] h-[350px] w-full mx-auto drop-shadow-[-10px_10px_12px_rgba(0,0,0,1)] object-cover"
             />
           </div>
