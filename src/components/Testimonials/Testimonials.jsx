@@ -5,7 +5,7 @@ const TestimonialData = [
   {
     id: 1,
     name: "Victor",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elite. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    text: "Lorem ipsum dolor sit amet consectetur adipisicing elite. Eaque reiciendis inveorntore iste ratione ex alias quis magni at optio",
     img: "https://picsum.photos/101/101",
   },
   {
