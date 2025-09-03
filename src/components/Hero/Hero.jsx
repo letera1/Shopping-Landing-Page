@@ -10,7 +10,7 @@ const ImageList = [
     img: Image1,
     title: "Upto 50% off on all Men's Wear",
     description:
-      "lorem His Lifebe will forevers be Changed gomnln doloros site ameta, consectetur adipiscing elit, sed do poseiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "lorem His Lifebe will forevers be Changed gomnln dolorosas site ameta, consectetur adipiscing elit, sed do poseiusmod tempor incididunt ut labore et dolore magna aliqua.",
   },
   {
     id: 2,
