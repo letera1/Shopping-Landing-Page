@@ -11,7 +11,7 @@ const TestimonialData = [
   {
     id: 2,
     name: "Satya Nadella",
-    text: "Lorem ipsum dolor sit amet vonsectetur adipisicing elite. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    text: "Lorem ipsum dolor sit amet vonsectetur adipisicing elite. Eaque reiciendis inventore iste ratione ex alias quis magni at optiono",
     img: "https://picsum.photos/102/102",
   },
   {
