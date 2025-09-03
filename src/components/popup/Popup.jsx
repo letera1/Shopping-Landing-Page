@@ -24,7 +24,7 @@ const Popup = ({ orderPopup, setOrderPopup }) => {
               <div className="mt-4">
                 <input
                   type="text"
-                  placeholder="Name"
+                  placeholder="name"
                   className=" w-full rounded-full border border-gray-300 dark:border-gray-500 dark:bg-gray-800 px-2 py-1 mb-4"
                 />
                 <input
